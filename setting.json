@@ -1,0 +1,11 @@
+{
+    "user_options":{
+        "extender":{
+            "settings":{
+                "automatically_reload_extensions_on_startup":true,
+                "automatically_update_bapps_on_startup":true,
+                "suppress_extension_loaded_popup":true
+            }
+        }
+    }
+}
